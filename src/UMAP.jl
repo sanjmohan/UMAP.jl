@@ -8,6 +8,7 @@ using NearestNeighborDescent
 using SparseArrays
 
 include("utils.jl")
+include("layouts.jl")
 include("umap_.jl")
 
 export umap, UMAP_
